@@ -1,4 +1,8 @@
-# Requirements
+# SonarQube Compose
+
+## Prerequisites
+
+- Docker and Docker Compose must be installed on your system.
 
 - set vm.max_map_count=262144
 
